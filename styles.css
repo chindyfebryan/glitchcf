@@ -1,4 +1,4 @@
-@import "compass/css3";
+@import url(http://compass-style.org/reference/compass/css3);
 @import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
 
 body{
